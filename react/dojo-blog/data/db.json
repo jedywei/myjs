@@ -1,0 +1,17 @@
+{
+    "blogs" : [
+        {
+            "title": "My First Blog", 
+            "body" : "I'm trying to use variable fonts for the first time, namely Quicksand from Google fonts. Here are the tags it gives you...",
+            "author": "mario", 
+            "id": 1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "It's definitely using Quicksand on the page but the problem is that when I change the font weight from 400 to 500 it doesn't change. 300 does nothing either but if I change it to a value above 550 it seems to go very bold. It's as if I've set it to download just two different weights, a very light one and a very bold one.", 
+            "author": "yoshi", 
+            "id": 2
+        }
+    ]
+}
+
